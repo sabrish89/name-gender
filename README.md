@@ -42,4 +42,4 @@ provided in `model-building / assets / models /`</b>.
      >simply open `docker-name-gender` and run app.py.<br/>
       <u>NOTE: you would need to change the port to 5000 in 'Requests code.ipynb'</u>
                                                                                              
-Lastly, have fun and let me know in case of any issues. I would be happy to help 😊.<br/>                                                                           <b>- Sabrish Gopalakrishnan</b>
+Lastly, let me know in case of any issues.<br/>                                                                           <b>- sabrish89@gmail.com</b>
