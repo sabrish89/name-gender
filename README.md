@@ -37,7 +37,6 @@ provided in `model-building / assets / models /`</b>.
       `docker images`<br/>
       for the "latest" image. Finally, run<br/>
       `docker run --publish 8000:5000 python-name-gender`   <br/>
-      <b>NOTE: The build was tested on linux containers (WSL hypervizor). The build may fail in a windows container.<br/><br/>
      * <u>Via you favourite IDE:</u><br/>
      >simply open `docker-name-gender` and run app.py.<br/>
       <u>NOTE: you would need to change the port to 5000 in 'Requests code.ipynb'</u>
